@@ -1,0 +1,34 @@
+{
+  "_npmUser": {
+      "email": "ts-npm-types@microsoft.com",
+      "name": "types"
+  },  
+  "contributors": [
+    {
+      "name": "albertopineda",
+      "url": "https://www.linkedin.com/in/alberto-pineda-96374387/"
+    }
+  ],
+  "dependencies": {},
+  "description": "TypeScript definitions for universal-cookie",
+  "devDependencies": {},
+  "directories": {}, 
+  "installable": true,
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "email": "ts-npm-types@microsoft.com",
+      "name": "types"
+    }
+  ],
+  "name": "@types/universal-cookie",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.3",
+  "version": "2.1.2"
+}
